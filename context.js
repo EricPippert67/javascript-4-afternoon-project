@@ -19,9 +19,11 @@
 */
   
 
-//Code Here
-
-
+let user() {
+  this.username,
+  this.email,
+  this.getUsername
+}
 
 ////////// PROBLEM 2 //////////
 
